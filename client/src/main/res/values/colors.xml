@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <!-- semantic color naming -->
+    <color name="textDark">@color/night</color>
+
+    <!-- color library -->
+    <color name="night">#FF0C090A</color>
+</resources>
